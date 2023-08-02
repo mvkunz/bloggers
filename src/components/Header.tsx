@@ -9,8 +9,8 @@ export default function Header() {
         <h2>Bloggers</h2>
       </header>
       <nav>
-      <NavLink to="/">HOME</NavLink>
-      <NavLink to="/about">ABOUT</NavLink>
+        <NavLink to="/">HOME</NavLink>
+        <NavLink to="/about">ABOUT</NavLink>
       </nav>
     </>
   );
