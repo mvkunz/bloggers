@@ -1,4 +1,5 @@
 header {
+  font-family: 'Sigmar One', cursive;
   align-items: center;
   background-color: #282c34;
   color: white;
@@ -9,6 +10,7 @@ header {
 
 header > a {
   color: white;
+  
   margin-left: 25px;
 }
 

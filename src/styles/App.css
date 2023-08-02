@@ -1,7 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Carattere&display=swap');
+
+
 body {
   margin: 0;
+  background-color: rgb(155, 155, 155);
 }
 
 h1 {
   margin-left: 20px;
+  font-family: 'Carattere', cursive;
 }
